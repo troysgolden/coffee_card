@@ -22,7 +22,7 @@ class Home extends StatelessWidget {
             Container(
               padding: const EdgeInsets.all(20.0),
               color: Colors.brown[200],
-              child: const StyledBodyText('How I like my coffee'),
+              child: const StyledBodyText('How I like my COFFEE!'),
             ),
             Container(
               padding: const EdgeInsets.all(20.0),
